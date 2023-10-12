@@ -1,0 +1,7 @@
+s ← "AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA"
+l ← [["FFLL" "SSSS" "YY??" "CC?W"]
+     ["LLLL" "PPPP" "HHQQ" "RRRR"]
+     ["IIIM" "TTTT" "NNKK" "SSRR"]
+     ["VVVV" "AAAA" "DDEE" "GGGG"]]
+⊡∶l⊗∶"UCAG" ↯¯1_3 s
+⍜⇌'↘1
