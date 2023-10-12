@@ -1,3 +1,3 @@
 s ← "GAGCCTACTAACGGGAT"
 t ← "CATCGTAATGACGGCCT"
-/+≠ s t
+/+≠ t s
