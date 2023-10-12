@@ -4,4 +4,5 @@ l ← [["FFLL" "SSSS" "YY??" "CC?W"]
      ["IIIM" "TTTT" "NNKK" "SSRR"]
      ["VVVV" "AAAA" "DDEE" "GGGG"]]
 ⊡∶l⊗∶"UCAG" ↯¯1_3 s
-⍜⇌'↘1
+▽≠@?.
+
