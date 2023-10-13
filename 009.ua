@@ -1,4 +1,4 @@
-# 9 Find the product of the Pythagorean triplet that sums to 1000
+# Euler 9 - Find the product of the Pythagorean triplet that sums to 1000
 
 # Find pairs (m,n) of odd numbers <40 where m>n
 ▽≡/<./⊂⊞⊂.+1×2⇡20

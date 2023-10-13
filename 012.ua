@@ -1,4 +1,4 @@
-# Find a triangle Number that has more than 500 divisors
+# Euler 12 - Find a triangle Number that has more than 500 divisors
 
 # The number of Divisors 
 NOD ← /+=0⊞◿ +1⇡.
