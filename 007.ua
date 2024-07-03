@@ -1,6 +1,6 @@
 # Euler 7 - 10001st Prime Number
 
-PrimeSieve ← ⊏⍏.⍥(⊂∶⊙(▽≠0◿).⊢..)⌊√∶+2⇡.
+PrimeSieve ← ⊏⍏.⍥(⊂:⊙(▽≠0◿).⊢..)⌊√:+2⇡.
 
 # The 10001st prime. Search up to 105000
 
